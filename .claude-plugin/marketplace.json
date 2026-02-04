@@ -1,0 +1,16 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/gh/anthropics/claude-code@main/.schemas/marketplace.json",
+  "name": "plugins",
+  "owner": "example-org",
+  "description": "Example marketplace with starter and advanced plugins for Claude Code",
+  "pluginRoot": "plugins",
+  "plugins": [
+    {
+      "name": "base",
+      "source": "base",
+      "version": "1.0.0",
+      "description": "A simple starter plugin demonstrating basic skill implementation",
+      "keywords": ["starter", "review", "beginner"]
+    }
+  ]
+}

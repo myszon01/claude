@@ -1,0 +1,8 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/gh/anthropics/claude-code@main/.schemas/plugin.json",
+  "name": "base",
+  "version": "1.0.0",
+  "description": "A simple starter plugin demonstrating basic skill implementation",
+  "author": "Example Author",
+  "license": "MIT"
+}
